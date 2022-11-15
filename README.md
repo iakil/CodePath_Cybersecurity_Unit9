@@ -28,7 +28,7 @@
 
 **Summary:** This honeypot simulates an Industrial Control System and allows security researchers to better understand attacker's techniques when targeting these sorts of systems. As the GIF shows us below, a couple different IP addresses were investigating port 502 with the modbus and s7comm protocols (protocols that are used in ICSs) as well as the http protocol. 
 
-<img src="c.gif">
+![Conpot Honeypot](File/c.gif)
 
 ### Malware Capture and Identification (Optional)
 
@@ -36,7 +36,7 @@
 
 **Summary:** My Dionaea honeypot captured several strains of WannaCry Malware, a popular malware strain that exploited the Eternal Blue vulnerability developed by the National Security Administration. Dionaea provides attackers with the temptation to exploit the SMB protocol vulnerability, which explains why we saw so much interest in the port with SMBD
 
-<img src="d.gif">
+![ Malware Capture and Identification](File/d.gif)
 
 MD5 Hash: * a4d49eaf60a8e333708469606ad9e1a4*
 
